@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://www.image2url.com/r2/default/images/1778441225207-5e6593a9-5703-485d-bdeb-2c158f8afd77.png" alt="image">
+</p>
+
+<p align="center">
   <a href="https://guns.lol/turminus">
     <img src="https://www.image2url.com/r2/default/images/1778440704467-e0c7ffae-48e7-47b6-ac0b-a6fec8b8301d.png" alt="image" width="125">
   </a>
