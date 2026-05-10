@@ -6,6 +6,6 @@
 
 <p align="center">
   <a href="https://guns.lol/turminus">
-    <img src="https://www.image2url.com/r2/default/images/1778438972975-ee01a8b3-f588-43df-8a25-d7171cfeed86.png" alt="Turminus" width="50">
+    <img src="https://www.image2url.com/r2/default/images/1778440704467-e0c7ffae-48e7-47b6-ac0b-a6fec8b8301d.png" alt="image" width="125">
   </a>
 </p>
