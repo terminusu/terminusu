@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.image2url.com/r2/default/images/1778441225207-5e6593a9-5703-485d-bdeb-2c158f8afd77.png" alt="image">
+  <img src="https://www.image2url.com/r2/default/images/1778498077150-3c3aa93f-93c1-4346-bad1-823b12890a08.png" alt="image" width="350">
 </p>
 
 <p align="center"><a href="https://guns.lol/turminus"><img src="https://www.image2url.com/r2/default/images/1778440704467-e0c7ffae-48e7-47b6-ac0b-a6fec8b8301d.png" alt="image" width="100"></a> 𖥻 <a href="https://terminus.atabook.org"><img src="https://www.image2url.com/r2/default/images/1778497535664-ff4d716b-58e1-4ad0-8a6e-293041e74964.png" alt="image" width="100"></a></p>
